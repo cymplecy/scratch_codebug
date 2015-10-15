@@ -1,4 +1,4 @@
-# scratch_codebug
+# ALPHA CODE/INSTRUCTIONS _ PLEASE TEST BUT EXPECT ERRORS :)
 ##I2C tethering for Codebug on RaspberryPi
 
 
