@@ -3,6 +3,7 @@
 
 This allows you to control the Codebug from Scratch on the RaspberryPi by plugging it into the Pins
 
+###MAKE SURE YOU REMOVE ANY BATTERY FIRST
 **Setting Up**
 Follow all instructions about getting it working in Python from the [main codebug website](http://codebug-i2c-tether.readthedocs.org/en/latest/) and make sure it works
 
