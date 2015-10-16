@@ -17,7 +17,7 @@
 #along with this program; if not, write to the Free Software
 #Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
-Version = 'v0.3.010'  #24Sep15 scrolling fixed.
+Version = 'v0.4.000'  #16Oct15
 print("Version",Version)
 import CodeBugController
 import threading
@@ -40,6 +40,7 @@ import queue
 #import uinput
 
 #ui = UInput()
+
 
 
 sghCT = None #reserve for captouch
