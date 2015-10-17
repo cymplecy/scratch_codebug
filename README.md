@@ -28,6 +28,6 @@ Switch to desktop and run Scratch.
 
 Select sensors block and right-click on bottom sensor block and enable Remote Sensor Connections
 
-You should be up and running - goto http://simplesi.net/scratchcodebug-beta-testing/ for ScratchCodeBug syntax
+You should be up and running - goto http://simplesi.net/scratchcodebug-syntax/ for ScratchCodeBug syntax
 
 
